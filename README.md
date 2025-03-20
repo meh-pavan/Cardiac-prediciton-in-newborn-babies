@@ -34,7 +34,7 @@ Ensure you have the following dependencies installed before running the project:
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Cardiac-Arrest-Prediction.git
+git clone https://github.com/meh-pavan/Cardiac-Arrest-Prediction.git
 cd Cardiac-Arrest-Prediction
 ```
 
