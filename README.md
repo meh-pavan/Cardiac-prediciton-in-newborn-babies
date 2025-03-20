@@ -68,9 +68,7 @@ The system logs every prediction into MongoDB with the following details:
 - The system includes logging mechanisms to debug API requests and predictions.
 - Data visualization tools help in understanding model performance and trends.
 
-## License
-This project is open-source and available under the MIT License.
-
 ## Contact
-For any inquiries or issues, please reach out via email at your.email@example.com.
+For any inquiries or issues, please reach out via email at pavan.macha46@gmail.com
+
 
